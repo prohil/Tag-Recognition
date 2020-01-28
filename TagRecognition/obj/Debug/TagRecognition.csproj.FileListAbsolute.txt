@@ -1,0 +1,69 @@
+C:\Users\а\Desktop\TagRecognition\TagRecognition\bin\Debug\TagRecognition.exe
+C:\Users\а\Desktop\TagRecognition\TagRecognition\bin\Debug\TagRecognition.exe.config
+C:\Users\а\Desktop\TagRecognition\TagRecognition\bin\Debug\Emgu.CV.UI.dll
+C:\Users\а\Desktop\TagRecognition\TagRecognition\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\а\Desktop\TagRecognition\TagRecognition\bin\Debug\Emgu.CV.World.dll
+C:\Users\а\Desktop\TagRecognition\TagRecognition\bin\Debug\ZedGraph.dll
+C:\Users\а\Desktop\TagRecognition\TagRecognition\bin\Debug\Emgu.CV.UI.pdb
+C:\Users\а\Desktop\TagRecognition\TagRecognition\bin\Debug\Emgu.CV.UI.xml
+C:\Users\а\Desktop\TagRecognition\TagRecognition\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\а\Desktop\TagRecognition\TagRecognition\bin\Debug\Emgu.CV.World.pdb
+C:\Users\а\Desktop\TagRecognition\TagRecognition\bin\Debug\Emgu.CV.World.xml
+C:\Users\а\Desktop\TagRecognition\TagRecognition\bin\Debug\ZedGraph.xml
+C:\Users\а\Desktop\TagRecognition\TagRecognition\bin\Debug\zh-CN\Emgu.CV.UI.resources.dll
+C:\Users\а\Desktop\TagRecognition\TagRecognition\bin\Debug\zh-CN\ZedGraph.resources.dll
+C:\Users\а\Desktop\TagRecognition\TagRecognition\obj\Debug\TagRecognition.MainForm.resources
+C:\Users\а\Desktop\TagRecognition\TagRecognition\obj\Debug\TagRecognition.Properties.Resources.resources
+C:\Users\а\Desktop\TagRecognition\TagRecognition\obj\Debug\TagRecognition.csproj.GenerateResource.Cache
+C:\Users\а\Desktop\TagRecognition\TagRecognition\obj\Debug\TagRecognition.exe
+C:\Users\а\Desktop\TagRecognition\TagRecognition\obj\Debug\TagRecognition.pdb
+C:\Users\а\Desktop\TagRecognition\TagRecognition\bin\Debug\TagRecognition.pdb
+C:\Users\а\Desktop\TagRecognition\TagRecognition\bin\Debug\haarcascade_frontalface_default.xml
+C:\Users\а\Desktop\TagRecognition\TagRecognition\bin\Debug\cvextern.dll
+C:\Users\а\Desktop\TagRecognition\TagRecognition\bin\Debug\msvcp120.dll
+C:\Users\а\Desktop\TagRecognition\TagRecognition\bin\Debug\msvcr120.dll
+C:\Users\а\Desktop\TagRecognition\TagRecognition\bin\Debug\opencv_ffmpeg310_64.dll
+C:\Users\а\Desktop\TagRecognition\TagRecognition\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2013.dll
+C:\Users\а\Desktop\TagRecognition\TagRecognition\bin\Debug\tessdata\eng.cube.bigrams
+C:\Users\а\Desktop\TagRecognition\TagRecognition\bin\Debug\tessdata\eng.cube.fold
+C:\Users\а\Desktop\TagRecognition\TagRecognition\bin\Debug\tessdata\eng.cube.lm
+C:\Users\а\Desktop\TagRecognition\TagRecognition\bin\Debug\tessdata\eng.cube.nn
+C:\Users\а\Desktop\TagRecognition\TagRecognition\bin\Debug\tessdata\eng.cube.params
+C:\Users\а\Desktop\TagRecognition\TagRecognition\bin\Debug\tessdata\eng.cube.size
+C:\Users\а\Desktop\TagRecognition\TagRecognition\bin\Debug\tessdata\eng.cube.word-freq
+C:\Users\а\Desktop\TagRecognition\TagRecognition\bin\Debug\tessdata\eng.tesseract_cube.nn
+C:\Users\а\Desktop\TagRecognition\TagRecognition\bin\Debug\tessdata\eng.traineddata
+C:\Users\а\Desktop\TagRecognition\TagRecognition\obj\Debug\TagRecognition.csprojResolveAssemblyReference.cache
+C:\Учеба\Курсовая 2016\TagRecognition\TagRecognition\bin\Debug\cvextern.dll
+C:\Учеба\Курсовая 2016\TagRecognition\TagRecognition\bin\Debug\haarcascade_frontalface_default.xml
+C:\Учеба\Курсовая 2016\TagRecognition\TagRecognition\bin\Debug\msvcp120.dll
+C:\Учеба\Курсовая 2016\TagRecognition\TagRecognition\bin\Debug\msvcr120.dll
+C:\Учеба\Курсовая 2016\TagRecognition\TagRecognition\bin\Debug\opencv_ffmpeg310_64.dll
+C:\Учеба\Курсовая 2016\TagRecognition\TagRecognition\bin\Debug\tessdata\eng.cube.bigrams
+C:\Учеба\Курсовая 2016\TagRecognition\TagRecognition\bin\Debug\tessdata\eng.cube.fold
+C:\Учеба\Курсовая 2016\TagRecognition\TagRecognition\bin\Debug\tessdata\eng.cube.lm
+C:\Учеба\Курсовая 2016\TagRecognition\TagRecognition\bin\Debug\tessdata\eng.cube.nn
+C:\Учеба\Курсовая 2016\TagRecognition\TagRecognition\bin\Debug\tessdata\eng.cube.params
+C:\Учеба\Курсовая 2016\TagRecognition\TagRecognition\bin\Debug\tessdata\eng.cube.size
+C:\Учеба\Курсовая 2016\TagRecognition\TagRecognition\bin\Debug\tessdata\eng.cube.word-freq
+C:\Учеба\Курсовая 2016\TagRecognition\TagRecognition\bin\Debug\tessdata\eng.tesseract_cube.nn
+C:\Учеба\Курсовая 2016\TagRecognition\TagRecognition\bin\Debug\tessdata\eng.traineddata
+C:\Учеба\Курсовая 2016\TagRecognition\TagRecognition\bin\Debug\TagRecognition.exe.config
+C:\Учеба\Курсовая 2016\TagRecognition\TagRecognition\bin\Debug\TagRecognition.exe
+C:\Учеба\Курсовая 2016\TagRecognition\TagRecognition\bin\Debug\TagRecognition.pdb
+C:\Учеба\Курсовая 2016\TagRecognition\TagRecognition\bin\Debug\ZedGraph.dll
+C:\Учеба\Курсовая 2016\TagRecognition\TagRecognition\bin\Debug\Emgu.CV.UI.pdb
+C:\Учеба\Курсовая 2016\TagRecognition\TagRecognition\bin\Debug\Emgu.CV.UI.xml
+C:\Учеба\Курсовая 2016\TagRecognition\TagRecognition\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Учеба\Курсовая 2016\TagRecognition\TagRecognition\bin\Debug\Emgu.CV.World.pdb
+C:\Учеба\Курсовая 2016\TagRecognition\TagRecognition\bin\Debug\Emgu.CV.World.xml
+C:\Учеба\Курсовая 2016\TagRecognition\TagRecognition\bin\Debug\ZedGraph.xml
+C:\Учеба\Курсовая 2016\TagRecognition\TagRecognition\bin\Debug\zh-CN\Emgu.CV.UI.resources.dll
+C:\Учеба\Курсовая 2016\TagRecognition\TagRecognition\bin\Debug\zh-CN\ZedGraph.resources.dll
+C:\Учеба\Курсовая 2016\TagRecognition\TagRecognition\obj\Debug\TagRecognition.csprojAssemblyReference.cache
+C:\Учеба\Курсовая 2016\TagRecognition\TagRecognition\obj\Debug\TagRecognition.MainForm.resources
+C:\Учеба\Курсовая 2016\TagRecognition\TagRecognition\obj\Debug\TagRecognition.Properties.Resources.resources
+C:\Учеба\Курсовая 2016\TagRecognition\TagRecognition\obj\Debug\TagRecognition.csproj.GenerateResource.cache
+C:\Учеба\Курсовая 2016\TagRecognition\TagRecognition\obj\Debug\TagRecognition.csproj.CopyComplete
+C:\Учеба\Курсовая 2016\TagRecognition\TagRecognition\obj\Debug\TagRecognition.exe
+C:\Учеба\Курсовая 2016\TagRecognition\TagRecognition\obj\Debug\TagRecognition.pdb
